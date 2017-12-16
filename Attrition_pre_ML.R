@@ -1,5 +1,5 @@
 #read the desired file
-MYdataset <-read.csv("D:/1/data.csv")
+MYdataset <-read.csv("data.csv")
 
 #str f() will provide the meta data of the dataset it will describe the data type and overview of the data set
 str(MYdataset) 
